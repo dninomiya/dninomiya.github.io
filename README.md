@@ -1,4 +1,4 @@
-![](/mentor/hero.jpeg)
+![](/hero.jpeg)
 
 # dninomiya/mentor
 
